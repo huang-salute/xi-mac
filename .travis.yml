@@ -1,5 +1,5 @@
 language: rust
-osx_image: xcode11.3
+osx_image: xcode11.4
 
 git:
   submodules: true
